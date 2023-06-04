@@ -16,7 +16,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='Classifier',
+    name='src',
     version='0.0.1',
     author='deftydev',
     author_email='devanshgupta79212346@gmail.com',
